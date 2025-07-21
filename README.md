@@ -1,5 +1,4 @@
-# 1.4-Testing
-# ⚠️ 1.3-JUnit-Testing
+# 🛠️ 1.4-Testing
 
 A complete set of exercises focused on unit testing in Java using JUnit and AssertJ.  
 This project demonstrates Test-Driven Development (TDD) practices and various testing techniques to ensure code quality and reliability.
