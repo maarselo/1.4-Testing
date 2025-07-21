@@ -47,7 +47,7 @@ Implements a `Calculadora` class using TDD methodology:
 ## 📋 Requirements
 Before running this project, make sure you have:
 - Java SDK **17+** or higher
-- Gradle 7.0+
+- Gradle 8.10+
 - IntelliJ IDEA or Eclipse (recommended)
 - Git (optional, for cloning the repository)
 
