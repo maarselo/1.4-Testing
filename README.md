@@ -58,10 +58,10 @@ To get a local copy of the project:
 
 ```bash
 # Clone this repository
-https://github.com/maarselo/1.2-Exceptions.git
+https://github.com/maarselo/1.4-Testing.git
 
 # Navigate into the project directory
-cd 1.2-Exceptions/
+cd 1.4-Testing.git/
 ```
 
 ### 📥 Cloning and Opening in IntelliJ IDEA
@@ -70,7 +70,7 @@ cd 1.2-Exceptions/
 2. On the welcome screen, click **"Clone Repository"** (Get from Version Control).
 3. Paste the following URL into the **URL** field:
 ```bash
-git clone https://github.com/maarselo/1.2-Exceptions
+git clone https://github.com/maarselo/1.4-Testing.git
 ```
 4. Choose the folder where the project should be saved.
 5. Click **Clone**.
