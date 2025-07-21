@@ -83,12 +83,11 @@ This is a Gradle project. To run the tests::
 
 1. Open the project in IntelliJ IDEA
 2. Let Gradle sync and download dependencies automatically
-3. To run all tests:
-4.     Right-click `src/test` folder
-5.     ·Select `Run 'All Tests'`
-4. To run specific tests:
-   ·Open any test class
-   ·Click the green Run button next to the test class/method
+3. To run all tests; right-click `src/test` folder
+4. Select `Run 'All Tests'`
+ 
+1. To run specific tests; open any test class
+2. Click the green Run button next to the test class/method
 
 Command line alternative:
 ```bash
