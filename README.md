@@ -85,7 +85,8 @@ This is a Gradle project. To run the tests::
 2. Let Gradle sync and download dependencies automatically
 3. To run all tests; right-click `src/test` folder
 4. Select `Run 'All Tests'`
- 
+
+
 1. To run specific tests; open any test class
 2. Click the green Run button next to the test class/method
 
