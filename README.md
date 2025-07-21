@@ -8,7 +8,7 @@ This project demonstrates Test-Driven Development (TDD) practices and various te
 This repository contains the full solution for **Sprint 1 - JUnit Testing** of the Java programming track.  
 The sprint is divided into three levels, each focusing on different testing techniques:
 
-### 🧪 Level 1: JUnit Basics
+## 🧪 Level 1: JUnit Basics
 
 **Exercise 1**  
 Implements a `Library` class to manage book collections with tests verifying all required functionalities.
@@ -19,7 +19,7 @@ Creates a `CalculoDni` class that calculates DNI letters with parameterized test
 **Exercise 3**  
 Demonstrates testing for `ArrayIndexOutOfBoundsException`.
 
-### 🔍 Level 2: AssertJ Assertions
+## 🔍 Level 2: AssertJ Assertions
 
 Exercises 1-7 cover various AssertJ assertions including:
 - Primitive value comparisons
@@ -30,7 +30,7 @@ Exercises 1-7 cover various AssertJ assertions including:
 - Exception testing
 - Optional object testing
 
-### 🚀 Level 3: Test-Driven Development
+## 🚀 Level 3: Test-Driven Development
 
 Implements a `Calculadora` class using TDD methodology:
 - Tests written before implementation
