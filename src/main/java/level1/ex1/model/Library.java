@@ -3,7 +3,7 @@ package level1.ex1.model;
 import java.util.ArrayList;
 
 public class Library {
-    private ArrayList<String> books = null;
+    private ArrayList<String> books;
 
     public Library(){
         books = new ArrayList<>();
