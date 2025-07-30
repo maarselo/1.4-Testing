@@ -18,7 +18,7 @@ public class ManageLibrary {
             return;
         }
         if (bookName.isEmpty()) {
-            System.out.println("The name cannot be empty");
+            System.out.println("The name of the book cannot be empty");
             return;
         }
         this.library.getBooks().add(bookName);
@@ -52,12 +52,12 @@ public class ManageLibrary {
             return;
         }
         this.library.getBooks().add(index, bookName);
-        System.out.println("Add Successfully");
+        System.out.println("The book " + bookName +  " was successfully added on " + index + " index position.");
     }
 
     public void deleteBook(String bookName) {
         if (this.library.getBooks().remove(bookName)) {
-            System.out.println("Book deleted successfully.");
+            System.out.println("Book " + bookName + " deleted successfully.");
         } else {
             System.out.println("The book was not found.");
         }
