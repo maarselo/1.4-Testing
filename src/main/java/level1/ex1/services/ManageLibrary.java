@@ -22,7 +22,7 @@ public class ManageLibrary {
             return;
         }
         this.library.getBooks().add(bookName);
-        System.out.println("Add Successfully");
+        System.out.println("The book " + bookName +  " was successfully added ");
         sortLibrary();
     }
 
